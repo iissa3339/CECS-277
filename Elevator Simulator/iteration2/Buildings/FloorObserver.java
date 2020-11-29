@@ -1,4 +1,4 @@
-package cecs277.buildings;
+package cecs277.Buildings;
 
 import cecs277.buildings.Floor;
 import cecs277.elevators.Elevator;
